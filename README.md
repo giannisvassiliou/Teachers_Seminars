@@ -21,3 +21,8 @@ structure. These findings show that metaheuristic approaches, particularly those
 ing constraint-awareness into evolutionary or memory-based search, provide effective, 19
 scalable decision-support frameworks for complex, multi-constraint educational resource 20
 allocation
+
+
+knapcorr4stat.py - GA Teacher Seminar Selection
+pso_knapcorr4stat.py - Particle Swarm Optimization - Teacher Seminar Selection
+tabu_knapcorr4stat.py - Tabu Search -Teacher Seminar Selection
